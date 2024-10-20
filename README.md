@@ -6,5 +6,7 @@ Manual for setting up LEDs with RPi can be found here:
 https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/
 
 
+
 Main features:
+
 GUI interface for LED calibration.
