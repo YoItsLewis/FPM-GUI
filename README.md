@@ -4,7 +4,7 @@ Test code for a FPM LED control panel GUI, for control of multiple fully-address
 
 Manual for setting up LEDs with RPi can be found here:
 
-<a href="https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/"target="_blank">
+https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/
 
 
 Main features:
